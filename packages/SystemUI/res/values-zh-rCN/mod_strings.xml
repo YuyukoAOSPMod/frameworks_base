@@ -25,4 +25,7 @@
     <!-- USB tethering QS tile -->
     <string name="quick_settings_usb_tether_label">USB 网络共享</string>
 
+    <!-- Statusbar tuner -->
+    <string name="statusbar_items_title">状态栏图标调节器</string>
+
 </resources>
