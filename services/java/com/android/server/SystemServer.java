@@ -766,9 +766,9 @@ public final class SystemServer implements Dumpable {
                         uptimeMillis);
             }
 
-            Slog.i("halogenOS",
-                "Welcome to halogenOS! We believe that you'll love it. " +
-                "Ready to roll the Oreos!");
+            Slog.i("Yuyuko AOSP Mod",
+                "Welcome to Yuyuko AOSP Mod! We believe that you'll love it. " +
+                "Ready to to... uh... S!!!");
 
             // In case the runtime switched since last boot (such as when
             // the old runtime was removed in an OTA), set the system
