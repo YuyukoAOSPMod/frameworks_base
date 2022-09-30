@@ -28,4 +28,7 @@
     <!-- Statusbar tuner -->
     <string name="statusbar_items_title">状态栏图标调节器</string>
 
+    <!-- Icons name -->
+    <string name="status_bar_call_strength">通话信号强度</string>
+
 </resources>
